@@ -1,0 +1,27 @@
+.myTable{
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 400px; 
+  width: 500px; 
+  margin: 0 auto;
+}
+
+button:hover{
+  background-color:grey;
+}
+
+.myInput{
+  text-align: center;
+  margin-top: 1
+  00px;
+}
+
+input{
+  padding: 10px;
+  margin: 2px;
+}
+
+h1{
+  text-align: center;
+}
